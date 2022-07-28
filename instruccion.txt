@@ -1,0 +1,8 @@
+1. clonar la HTTPS.
+2. asegurarse de estar en la carpeta.
+3. git remote add origin https://github.com/TherealMagno/Principiante_github.git
+4. git remote -v (Ver las opciones)
+5. git push origin master.
+6. git pull origin main. (En caso de no tener los mismos archivos o tener un read.me en el repositorio remoto).
+7. git pull origin main --allow-unrelated-histories (obligar  a que los archivos se fucionen).
+8. git push origin master
